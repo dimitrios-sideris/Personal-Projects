@@ -1,7 +1,7 @@
 # Personal Projects
 
 This repository contains validation results (plots and case definitions) for literature models implemented from the literature.  
-**No implementation code is provided. Code may be provided upon request.**
+**Code may be provided upon request.**
 
 ## Contents
 - `models/`: validation folders per literature model
