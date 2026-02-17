@@ -1,7 +1,7 @@
-# Kinetic Model Validation (Plots Only)
+# Personal Projects
 
-This repository contains validation results (plots and case definitions) for kinetic models implemented from the literature.  
-**No implementation code is provided.**
+This repository contains validation results (plots and case definitions) for literature models implemented from the literature.  
+**No implementation code is provided. Code may be provided upon request.**
 
 ## Contents
 - `models/`: validation folders per literature model
