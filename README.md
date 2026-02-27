@@ -22,7 +22,3 @@ Validation focuses on comparing model predictions against published results (e.g
 | Model folder | Publication | Notes |
 |---|---|---|
 | Cordero-Lanzac CO2-to-Paraffins | Cordero-Lanzac et al. (2023), DOI: 10.1016/j.jcou.2022.102337 | Kinetics over PdZn/ZrO2 + SAPO-34 catalyst |
-
-## Citation
-Please cite the original publications listed in `references/`.  
-If you use this repository, you may cite it via `CITATION.cff`.
