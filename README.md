@@ -21,4 +21,4 @@ Validation focuses on comparing model predictions against published results (e.g
 ## Models
 | Model folder | Publication | Notes |
 |---|---|---|
-| Cordero-Lanzac CO2-to-Paraffins | Cordero-Lanzac et al. (2023), DOI: 10.1016/j.jcou.2022.102337 | Kinetics over PdZn/ZrO2 + SAPO-34 catalyst |
+| Cordero-Lanzac CO2-to-Paraffins | Cordero-Lanzac et al. (2023), DOI: 10.1016/j.jcou.2022.102337 | Literature-Based Reactor Modeling for CO2 Conversion to Hydrocarbons|
