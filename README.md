@@ -22,3 +22,7 @@ Validation focuses on comparing model predictions against published results (e.g
 | Project folder | Based on Publication | Project Name |
 |---|---|---|
 | Cordero-Lanzac CO2-to-Paraffins | Cordero-Lanzac et al. (2023), DOI: 10.1016/j.jcou.2022.102337 | Literature-Based Reactor Modeling for CO2 Conversion to Hydrocarbons|
+
+## Literature-Based Reactor Modeling for CO2 Conversion to Hydrocarbons
+The model describes the reaction of CO2 and H2 to light hydrocarbons (), occuring in a fixed bed, plug-flow reactor. 
+The reactor is assumed to be 1D, isothermal, with negligible pressure losses.
