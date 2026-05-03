@@ -18,7 +18,7 @@ Validation focuses on comparing model predictions against published results (e.g
 ## What is not included
 - Source code, solver implementation, Article documents
 
-## Models
-| Model folder | Publication | Notes |
+## Projects
+| Project folder | Based on Publication | Project Name |
 |---|---|---|
 | Cordero-Lanzac CO2-to-Paraffins | Cordero-Lanzac et al. (2023), DOI: 10.1016/j.jcou.2022.102337 | Literature-Based Reactor Modeling for CO2 Conversion to Hydrocarbons|
