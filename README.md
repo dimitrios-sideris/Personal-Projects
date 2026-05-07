@@ -24,5 +24,5 @@ Validation focuses on comparing model predictions against published results (e.g
 | Cordero-Lanzac CO<sub>2</sub> -to-Paraffins | Cordero-Lanzac et al. (2023), DOI: 10.1016/j.jcou.2022.102337 | Literature-Based Reactor Modeling for CO<sub>2</sub> Conversion to Hydrocarbons|
 
 ## Literature-Based Reactor Modeling for CO<sub>2</sub> Conversion to Hydrocarbons
-The model describes the reaction of CO<sub>2</sub> and H<sub>2</sub> to light hydrocarbons (CH<sub>4</sub>, C<sub>2</sub> H<sub>6</sub>, C3H8, C4H10), occuring in a fixed bed, plug-flow reactor. 
+The model describes the reaction of CO<sub>2</sub> and H<sub>2</sub> to light hydrocarbons (CH<sub>4</sub>, C<sub>2</sub>H<sub>6</sub>, C<sub>3</sub>H<sub>8</sub>, C<sub>4</sub>H<sub>10</sub>), occuring in a fixed bed, plug-flow reactor. 
 The reactor is assumed to be 1D, isothermal, with negligible pressure losses.
